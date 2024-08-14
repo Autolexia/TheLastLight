@@ -1,0 +1,19 @@
+[gd_scene load_steps=3 format=3 uid="uid://c4j3yg2ewwe0j"]
+
+[ext_resource type="PackedScene" uid="uid://6mulqydxvbfc" path="res://game.tscn" id="1_uitlo"]
+[ext_resource type="PackedScene" uid="uid://cfs602oashdw2" path="res://Scenes/TitleScreen.tscn" id="2_fpr40"]
+
+[node name="Main" type="Node2D"]
+
+[node name="Game" parent="." instance=ExtResource("1_uitlo")]
+
+[node name="UILayer" type="CanvasLayer" parent="."]
+
+[node name="Screens" type="Control" parent="UILayer"]
+layout_mode = 3
+anchors_preset = 0
+offset_right = 40.0
+offset_bottom = 40.0
+
+[node name="TitleScreen" parent="UILayer/Screens" instance=ExtResource("2_fpr40")]
+visible = false

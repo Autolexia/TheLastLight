@@ -1,0 +1,6 @@
+[gd_resource type="Theme" load_steps=2 format=3 uid="uid://cbcww8rmx80eb"]
+
+[ext_resource type="FontFile" uid="uid://d1q5mo38w4vyt" path="res://Fonts/The Alarm.ttf" id="1_l0giy"]
+
+[resource]
+default_font = ExtResource("1_l0giy")
