@@ -17,3 +17,5 @@ offset_bottom = 40.0
 
 [node name="TitleScreen" parent="UILayer/Screens" instance=ExtResource("2_fpr40")]
 visible = false
+
+[node name="StephenIsABeach" type="Node2D" parent="."]
