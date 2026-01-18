@@ -9,7 +9,7 @@ func _ready() -> void:
 	if healthComponent:
 		damageRecievedFunc = healthComponent.ApplyHealthChange
 	else:
-		push_warning("No Healtth Component Assigned. Hurtbox Does not have a health component to apply damage to")
+		push_warning("No Health Component Assigned. Hurtbox Does not have a health component to apply damage to")
 	pass # Replace with function body.
 
 # Called every frame. 'delta' is the elapsed time since the previous frame.

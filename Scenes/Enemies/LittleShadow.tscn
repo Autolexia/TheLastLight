@@ -10,9 +10,10 @@
 
 [sub_resource type="CircleShape2D" id="CircleShape2D_x57op"]
 
-[node name="LittleShadow" type="CharacterBody2D" node_paths=PackedStringArray("velocityComponent")]
+[node name="LittleShadow" type="CharacterBody2D" node_paths=PackedStringArray("velocityComponent", "pathFindingComponent")]
 script = ExtResource("1_g3dcq")
 velocityComponent = NodePath("VelocityComponent")
+pathFindingComponent = NodePath("PathFindingComponent")
 
 [node name="HealthComponent" parent="." instance=ExtResource("2_pgieb")]
 
