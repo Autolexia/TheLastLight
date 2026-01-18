@@ -1,0 +1,2 @@
+# High Concept
+**The Last Light** is a **solo PvE adventure** where the player becomes a **Lightbearer**—an armored champion who channels powers drawn from the **electromagnetic spectrum**. Each playable knight embodies a band of light (Infrared → Gamma), expressed through **distinct armor aesthetics, melee weapons, and combat effects**. The player explores corrupted regions, defeats spectral enemies, solves light-based puzzles, and restores balance to a world being consumed by **The Shadow**.

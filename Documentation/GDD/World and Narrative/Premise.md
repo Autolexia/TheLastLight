@@ -1,0 +1,2 @@
+# Premise
+The world is being consumed by **The Shadow**, a force that devours wavelengths—stealing color, warmth, and clarity from reality. The Lightbearer’s order has fallen, leaving only scattered relics of the spectrum. The player must restore each band of light by reclaiming corrupted regions, defeating their guardians, and rekindling the spectrum.

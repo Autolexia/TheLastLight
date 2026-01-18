@@ -1,0 +1,316 @@
+{
+  "main": {
+    "id": "eab7deb03e4ac95d",
+    "type": "split",
+    "children": [
+      {
+        "id": "c9d8bfd450c589ac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ae18c7ad2a79653f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Last Light - Game Design Document.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Last Light - Game Design Document"
+            }
+          },
+          {
+            "id": "62b59524fe447100",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Last Light - Game Design Document.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Last Light - Game Design Document"
+            }
+          },
+          {
+            "id": "d31d4c89ba184923",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Last Light - Game Design Document.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Last Light - Game Design Document"
+            }
+          },
+          {
+            "id": "d825955bd84dad0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Last Light - Game Design Document.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Last Light - Game Design Document"
+            }
+          },
+          {
+            "id": "a7d66ce472485824",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Summary.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Game Summary"
+            }
+          },
+          {
+            "id": "2642d2a0e3eabb23",
+            "type": "leaf",
+            "state": {
+              "type": "card-board-view",
+              "state": {},
+              "icon": "card-board",
+              "title": "CardBoard"
+            }
+          },
+          {
+            "id": "a33bcc209b2c265c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Content Inventory.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Content Inventory"
+            }
+          },
+          {
+            "id": "bc0fe609c8759c57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GDD/Character Designs/Knights Roster (All Info).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Knights Roster (All Info)"
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7db7cd78e013f1ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a1de3582179c440",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2f9921538250dbb9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "26904e57d7edc7fb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6cc0e3f46ba29b94",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d4da864be7cc18fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e64bc4a567c54e1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "962653091c244c3d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "The Last Light - Game Design Document.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for The Last Light - Game Design Document"
+            }
+          },
+          {
+            "id": "121d8258f5408151",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "The Last Light - Game Design Document.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from The Last Light - Game Design Document"
+            }
+          },
+          {
+            "id": "66e12fc001a8e1c2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "75a3f6f71e8d4646",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "The Last Light - Game Design Document.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of The Last Light - Game Design Document"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "dashboard-navigator:Open dashboard navigator": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "terminal:Open terminal": false,
+      "card-board:CardBoard": false
+    }
+  },
+  "active": "2f9921538250dbb9",
+  "lastOpenFiles": [
+    "Untitled.base",
+    "Untitled 1.base",
+    "GDD/Character Designs/Knights Roster (All Info).md",
+    "GDD/Game Design Document.md",
+    "GDD/Art and Audio Direction/Audio.md",
+    "GDD/Art and Audio Direction/Art.md",
+    "GDD/World and Narrative/Premise.md",
+    "GDD/Content Inventory (Quick Reference)/Visual Style.md",
+    "GDD/Content Inventory (Quick Reference)/Knights.md",
+    "GDD/Content Inventory (Quick Reference)/Effects.md",
+    "GDD/Scope Notes/Out of Scope (for now).md",
+    "GDD/Scope Notes/In Scope (MVP).md",
+    "GDD/UX UI (High-Level)/UX UI (High-Level).md",
+    "GDD/Progression and Upgrades/Progression and Upgrades.md",
+    "GDD/Puzzles and Traversal (Light-Themed)/Puzzles and Traversal (Light-Themed).md",
+    "GDD/Enemies and Bosses/Boss Philosophy.md",
+    "GDD/Enemies and Bosses/Enemy Families.md",
+    "GDD/World and Narrative/World Structure (Regions of Light).md",
+    "GDD/Character Designs/Visual Descriptions (Knights Only).md",
+    "GDD/Character Designs/Visual Style (Global).md",
+    "GDD/Player Systems/Self-Buffs (Narrative-Compatible).md",
+    "GDD/Player Systems/Effects Taxonomy (Combat Effects).md",
+    "GDD/Player Systems/Knight Switching.md",
+    "GDD/Player Systems/Combat Style.md",
+    "GDD/Core Gameplay Loop/Core Gameplay Loop.md",
+    "GDD/Target Audience and Platform/Target Audience and Platform.md",
+    "GDD/Design Pillars/Design Pillars.md",
+    "GDD/Content Inventory (Quick Reference)",
+    "GDD/Scope Notes",
+    "GDD/UX UI (High-Level)",
+    "GDD/Art and Audio Direction",
+    "GDD/Progression and Upgrades",
+    "GDD/Puzzles and Traversal (Light-Themed)",
+    "GDD/Enemies and Bosses",
+    "GDD/World and Narrative",
+    "GDD/Character Designs",
+    "GDD/05 - Art & Audio/Concept Art/DALL·E 2024-12-23 13.04.44 - A dramatic chibi-style illustration of a red-themed soldier clad in ornate armor with a closed helmet, wielding a glowing red mace. The soldier is in .webp",
+    "GDD/05 - Art & Audio/Concept Art/DALL·E 2024-12-23 13.03.44 - A dramatic chibi-style illustration of a purple-themed soldier clad in ornate armor with a closed helmet, shooting a powerful beam of radiant purple l.webp",
+    "GDD/05 - Art & Audio/Concept Art/DALL·E 2024-12-23 13.00.46 - A dynamic chibi-style illustration of a soldier clad in ornate, reflective armor with a closed helmet, captured mid-swing with his glowing sword of li.webp",
+    "GDD/05 - Art & Audio/Concept Art/DALL·E 2024-12-23 12.59.00 - A dynamic chibi-style illustration of a soldier clad in ornate, reflective armor with a closed helmet, wielding a glowing sword of light. The soldier .webp",
+    "GDD/05 - Art & Audio/Concept Art/DALL·E 2024-12-23 12.37.00 - A chibi-style illustration of a soldier in ornate, reflective armor with the helmet's mask down, standing in a desert wasteland at night. A massive or.webp",
+    "GDD/05 - Art & Audio/Concept Art/DALL·E 2024-12-23 12.19.51 - A chibi-style illustration of shadow creatures, pure black with ominous red eyes, depicted in various menacing and dynamic poses. The creatures have j.webp",
+    "GDD/05 - Art & Audio/Concept Art/DALL·E 2024-12-23 12.19.01 - A dynamic chibi-style illustration of a soldier clad in ornate, reflective armor with the helmet's mask down, engaged in combat with shadow creatures.webp",
+    "GDD/05 - Art & Audio/Concept Art/DALL·E 2024-12-23 12.18.04 - A chibi-style illustration of a soldier wearing detailed, reflective armor with the helmet's mask down, covering the face completely. The armor retain.webp",
+    "GDD/05 - Art & Audio/Concept Art/1TpFVQ1xoMwibJ-uFXa4.webp",
+    "GDD/05 - Art & Audio/Concept Art/1TpFS11xoMwibI-ioHdL.webp",
+    "Untitled.canvas"
+  ]
+}
